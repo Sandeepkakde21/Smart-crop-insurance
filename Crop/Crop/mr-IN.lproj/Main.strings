@@ -1,0 +1,189 @@
+
+/* Class = "UILabel"; text = "   01-01-2019 to 31-05-2019"; ObjectID = "0OL-Db-kzc"; */
+"0OL-Db-kzc.text" = "   01-01-2019 to 31-05-2019";
+
+/* Class = "UILabel"; text = "   $ 100"; ObjectID = "2Mg-aV-ovN"; */
+"2Mg-aV-ovN.text" = "   $ 100";
+
+/* Class = "UITextField"; placeholder = "Aadhar number"; ObjectID = "2eN-hx-hpQ"; */
+"2eN-hx-hpQ.placeholder" = "आधार क्रमांक";
+
+/* Class = "UILabel"; text = "   Settlement Date :"; ObjectID = "2sc-mo-wa4"; */
+"2sc-mo-wa4.text" = "   सेटलमेंटची तारीख :";
+
+/* Class = "UILabel"; text = "   Cotton"; ObjectID = "39b-fv-zNy"; */
+"39b-fv-zNy.text" = "   कापूस";
+
+/* Class = "UIButton"; normalTitle = "Buy  Policy"; ObjectID = "3cL-D7-HRq"; */
+"3cL-D7-HRq.normalTitle" = "खरेदी धोरण";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "5HK-C4-sAx"; */
+"5HK-C4-sAx.placeholder" = "संकेतशब्द";
+
+/* Class = "UISegmentedControl"; 5Zv-fZ-q7c.segmentTitles[0] = "Offered Policies"; ObjectID = "5Zv-fZ-q7c"; */
+"5Zv-fZ-q7c.segmentTitles[0]" = "ऑफर केलेली धोरणे";
+
+/* Class = "UISegmentedControl"; 5Zv-fZ-q7c.segmentTitles[1] = "Holding Policies"; ObjectID = "5Zv-fZ-q7c"; */
+"5Zv-fZ-q7c.segmentTitles[1]" = "होल्डिंग पॉलिसी";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "6rM-if-icU"; */
+"6rM-if-icU.placeholder" = "पासवर्डची पुष्टी करा";
+
+/* Class = "UILabel"; text = "   Agriculture insurance"; ObjectID = "9La-8V-ZQO"; */
+"9La-8V-ZQO.text" = "   कृषी विमा";
+
+/* Class = "UILabel"; text = "My Claim's"; ObjectID = "ABb-3w-2fi"; */
+"ABb-3w-2fi.text" = "माझा हक्क";
+
+/* Class = "UILabel"; text = "   01-01-2019 to 31-05-2019"; ObjectID = "Aqs-bP-8ME"; */
+"Aqs-bP-8ME.text" = "   01-01-2019 to 31-05-2019";
+
+/* Class = "UIButton"; normalTitle = "Claim History"; ObjectID = "Cw7-Oc-bjV"; */
+"Cw7-Oc-bjV.normalTitle" = "हक्क इतिहास";
+
+/* Class = "UITextField"; placeholder = "Area in Hector"; ObjectID = "Ei8-Ug-M0L"; */
+"Ei8-Ug-M0L.placeholder" = "हेक्टर मधील क्षेत्र";
+
+/* Class = "UITextField"; placeholder = "Aadhar number"; ObjectID = "FeX-ch-leg"; */
+"FeX-ch-leg.placeholder" = "आधार क्रमांक";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "HHd-kS-ebJ"; */
+"HHd-kS-ebJ.normalTitle" = "लॉगिन";
+
+/* Class = "UILabel"; text = "   Cotton"; ObjectID = "I41-al-vd4"; */
+"I41-al-vd4.text" = "   कापूस";
+
+/* Class = "UIButton"; normalTitle = "Select season"; ObjectID = "IyA-a6-sbt"; */
+"IyA-a6-sbt.normalTitle" = "हंगाम निवडा";
+
+/* Class = "UILabel"; text = "   $ 1000"; ObjectID = "J1b-VL-hwO"; */
+"J1b-VL-hwO.text" = "   $ 1000";
+
+/* Class = "UILabel"; text = "+91-9096960360"; ObjectID = "KJx-Aa-ST6"; */
+"KJx-Aa-ST6.text" = "+91-9096960360";
+
+/* Class = "UIButton"; normalTitle = "Select State"; ObjectID = "KZb-L4-Vub"; */
+"KZb-L4-Vub.normalTitle" = "राज्य निवडा";
+
+/* Class = "UILabel"; text = "   Insurance company:"; ObjectID = "Ldu-S4-q57"; */
+"Ldu-S4-q57.text" = "   विमा कंपनी:";
+
+/* Class = "UILabel"; text = "Sandeep Kakde"; ObjectID = "LgP-pI-5bL"; */
+"LgP-pI-5bL.text" = "Sandeep Kakde";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "NQa-VT-Otm"; */
+"NQa-VT-Otm.placeholder" = "संकेतशब्द";
+
+/* Class = "UILabel"; text = "   Policy Period:"; ObjectID = "NYY-x0-iQO"; */
+"NYY-x0-iQO.text" = "   पॉलिसीचा कालावधी:";
+
+/* Class = "UILabel"; text = "   Settlement Amount :"; ObjectID = "OlB-v5-yj8"; */
+"OlB-v5-yj8.text" = "   सेटलमेंटची रक्कम :";
+
+/* Class = "UIButton"; normalTitle = "Amount"; ObjectID = "PH1-1r-Mvc"; */
+"PH1-1r-Mvc.normalTitle" = "रक्कम";
+
+/* Class = "UIButton"; normalTitle = "Guest Farmer"; ObjectID = "PI3-SV-QB8"; */
+"PI3-SV-QB8.normalTitle" = "अतिथी शेतकरी";
+
+/* Class = "UIButton"; normalTitle = "Login as Farmer"; ObjectID = "PUy-UX-kKa"; */
+"PUy-UX-kKa.normalTitle" = "शेतकरी म्हणून लॉगिन करा";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "PoJ-KK-fPB"; */
+"PoJ-KK-fPB.normalTitle" = "इंग्रजी";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "QlQ-W7-cNX"; */
+"QlQ-W7-cNX.placeholder" = "मोबाइल नंबर";
+
+/* Class = "UITextField"; placeholder = "Full name"; ObjectID = "RMe-QY-qCh"; */
+"RMe-QY-qCh.placeholder" = "पूर्ण नाव";
+
+/* Class = "UILabel"; text = "   Policy period:"; ObjectID = "UAv-6T-1ab"; */
+"UAv-6T-1ab.text" = "   पॉलिसी कालावधी:";
+
+/* Class = "UILabel"; text = "  Claime Type:"; ObjectID = "UNF-d1-vCY"; */
+"UNF-d1-vCY.text" = "   दावा प्रकार:";
+
+/* Class = "UILabel"; text = "   Total amount insured:"; ObjectID = "VPz-pJ-2do"; */
+"VPz-pJ-2do.text" = "   विम्याची एकूण रक्कम:";
+
+/* Class = "UILabel"; text = "   Insurance company:"; ObjectID = "XVG-s3-Cie"; */
+"XVG-s3-Cie.text" = "   विमा कंपनी:";
+
+/* Class = "UILabel"; text = "   $ 100"; ObjectID = "Z8F-7M-m1C"; */
+"Z8F-7M-m1C.text" = "   $ 100";
+
+/* Class = "UIButton"; normalTitle = "Select Image"; ObjectID = "bTn-bV-C6o"; */
+"bTn-bV-C6o.normalTitle" = "प्रतिमा निवडा";
+
+/* Class = "UILabel"; text = "   01-01-2019 to 31-05-2019"; ObjectID = "ck3-5W-lCP"; */
+"ck3-5W-lCP.text" = "   01-01-2019 to 31-05-2019";
+
+/* Class = "UIButton"; normalTitle = "Scheme"; ObjectID = "dAF-Sv-U5G"; */
+"dAF-Sv-U5G.normalTitle" = "योजना";
+
+/* Class = "UIButton"; normalTitle = "Select District"; ObjectID = "dWL-Vg-d9p"; */
+"dWL-Vg-d9p.normalTitle" = "जिल्हा निवडा";
+
+/* Class = "UIButton"; normalTitle = "हिंदी"; ObjectID = "efN-qV-7KS"; */
+"efN-qV-7KS.normalTitle" = "हिंदी";
+
+/* Class = "UILabel"; text = "   Crop:"; ObjectID = "gDq-hM-p5Z"; */
+"gDq-hM-p5Z.text" = "   पीक:";
+
+/* Class = "UIButton"; normalTitle = "Continue with"; ObjectID = "h35-kf-HVK"; */
+"h35-kf-HVK.normalTitle" = "Continue with";
+
+/* Class = "UIButton"; normalTitle = "Crop"; ObjectID = "iVs-MB-1OF"; */
+"iVs-MB-1OF.normalTitle" = "पीक";
+
+/* Class = "UILabel"; text = "   Total Premium paid:"; ObjectID = "ihF-bL-zba"; */
+"ihF-bL-zba.text" = "   देय एकूण प्रीमियम:";
+
+/* Class = "UIButton"; normalTitle = "Select Year"; ObjectID = "j8y-Jd-doU"; */
+"j8y-Jd-doU.normalTitle" = "वर्ष निवडा";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "jGW-yT-PSb"; */
+"jGW-yT-PSb.normalTitle" = "प्रस्तुत करणे";
+
+/* Class = "UILabel"; text = "   $ 1000"; ObjectID = "jiW-G8-vgJ"; */
+"jiW-G8-vgJ.text" = "   $ 1000";
+
+/* Class = "UILabel"; text = "   $ 100"; ObjectID = "jxy-s2-w9F"; */
+"jxy-s2-w9F.text" = "   $ 100";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "kcH-pJ-txi"; */
+"kcH-pJ-txi.placeholder" = "ईमेल";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mWl-VM-2PZ"; */
+"mWl-VM-2PZ.text" = "लेबल";
+
+/* Class = "UIButton"; normalTitle = "Register as Farmer"; ObjectID = "nM3-Yi-8q8"; */
+"nM3-Yi-8q8.normalTitle" = "शेतकरी म्हणून नोंदणी करा";
+
+/* Class = "UILabel"; text = "   Premium per hector:"; ObjectID = "ou4-CB-3Gz"; */
+"ou4-CB-3Gz.text" = "   प्रीमियम प्रति हेक्टर:";
+
+/* Class = "UIButton"; normalTitle = "मराठी"; ObjectID = "rkb-0K-Yjm"; */
+"rkb-0K-Yjm.normalTitle" = "मराठी";
+
+/* Class = "UILabel"; text = "   $ 100"; ObjectID = "sbE-Gh-xAn"; */
+"sbE-Gh-xAn.text" = "   $ 100";
+
+/* Class = "UILabel"; text = "   Agriculture insurance"; ObjectID = "tSQ-x8-Fcr"; */
+"tSQ-x8-Fcr.text" = "   कृषी विमा";
+
+/* Class = "UILabel"; text = "   Crop:"; ObjectID = "uKx-3b-Svx"; */
+"uKx-3b-Svx.text" = "   पीक:";
+
+/* Class = "UIButton"; normalTitle = "Submit Claim"; ObjectID = "uP6-8a-pCG"; */
+"uP6-8a-pCG.normalTitle" = "दावा सबमिट करा";
+
+/* Class = "UIButton"; normalTitle = "BUY"; ObjectID = "ujy-sZ-MbR"; */
+"ujy-sZ-MbR.normalTitle" = "खरेदी करा";
+
+/* Class = "UILabel"; text = "   Sum Assurance per hector:"; ObjectID = "val-sM-Q9h"; */
+"val-sM-Q9h.text" = "   प्रति हेक्टर सम अ‍ॅश्युरन्स:";
+
+/* Class = "UIButton"; normalTitle = "Log Out"; ObjectID = "zq6-4n-25P"; */
+"zq6-4n-25P.normalTitle" = "बाहेर पडणेs";

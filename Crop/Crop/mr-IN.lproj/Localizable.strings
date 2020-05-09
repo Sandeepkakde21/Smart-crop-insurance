@@ -1,0 +1,54 @@
+/* 
+  localizable.strings
+  Crop
+
+  Created by Sandeep Kakde on 19/12/19.
+  Copyright © 2019 Sandeep Kakde. All rights reserved.
+*/
+//Registration
+"Please check all fields" = "कृपया सर्व फील्ड तपासा";
+"All fields are compulsory and text length should be more than one character in it" = "सर्व फील्ड अनिवार्य आहेत आणि मजकूराची लांबी त्यातील एकापेक्षा जास्त वर्णांची असावी";
+"Password and confirm-password must be same" = "संकेतशब्द आणि पुष्टीकरण-संकेतशब्द समान असणे आवश्यक आहे";
+"Registration" = "नोंदणी";
+"Crop Insurance" = "पीक विमा";
+"Ok" = "ठीक आहे";
+
+//Login
+"Login" = "लॉगिन";
+"Login failed please try again" = "लॉगिन अयशस्वी कृपया पुन्हा प्रयत्न करा";
+"Please enter Aadhar number and password" = "कृपया आधार क्रमांक आणि संकेतशब्द प्रविष्ट करा";
+"Something went wrong, Please check your network connection" = "काहीतरी चूक झाली, कृपया आपले नेटवर्क कनेक्शन तपासा";
+
+//Buy policy
+"Buy Policy" = "खरेदी धोरण";
+"Manual Claim Policy" = "स्वत हक्क धोरण";
+"Area in hector is compulsory." = "हेक्टरमधील क्षेत्र अनिवार्य आहे.";
+"Please allow location service enable" = "कृपया स्थान सेवा सक्षम करण्यास अनुमती द्या";
+"Buy policy completed." = "खरेदी धोरण पूर्ण झाले.";
+"Buy policy failed" = "खरेदी धोरण अयशस्वी";
+"Total payable " = "देय एकूण ";
+"Done" = "पूर्ण झाले";
+
+//Manual claim
+"Manual Claime" = "स्वत हक्क";
+"Percentrage damage = ?" = "नुकसान टक्केवारी = ?";
+"Please wait we are in process..." = "कृपया प्रतीक्षा करा आम्ही प्रक्रियेत आहोत...";
+"Please retake new image as we are not able to process with this image" = "कृपया या प्रतिमेसह प्रक्रिया करण्यात आम्ही सक्षम नसल्यामुळे नवीन प्रतिमा पुन्हा घ्या";
+"Image not processed please select new image captured in good lights" = "प्रतिमेवर प्रक्रिया नाही कृपया चांगल्या दिव्यामध्ये कॅप्चर केलेली नवीन प्रतिमा निवडा";
+"Select another good quality image and try again" = "आणखी एक दर्जेदार प्रतिमा निवडा आणि पुन्हा प्रयत्न करा";
+"Claim recorded successfully" = "हक्क यशस्वीरित्या रेकॉर्ड केले";
+"Claim not recorded" = "हक्क रेकॉर्ड केलेला नाही";
+"You will get" = "तुला मिळेल";
+"percent insurance amount" = "टक्के विमा रक्कम";
+
+//Profile
+"Profile" = "प्रोफाइल";
+
+//Policies list
+"Policies" = "धोरणे";
+"No policies found" = "कोणतीही धोरणे आढळली नाहीत";
+
+
+//claime history
+"   Manually processed" = "   व्यक्तिचलितरित्या प्रक्रिया केली";
+"   Auto processed" = "   स्वयंचलित प्रक्रिया";

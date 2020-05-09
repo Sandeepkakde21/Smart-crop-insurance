@@ -1,0 +1,56 @@
+/* 
+  localizable.strings
+  Crop
+
+  Created by Sandeep Kakde on 19/12/19.
+  Copyright © 2019 Sandeep Kakde. All rights reserved.
+*/
+//Registration
+"Please check all fields" = "कृपया सभी फ़ील्ड जांचें";
+"All fields are compulsory and text length should be more than one character in it" = "सभी क्षेत्र अनिवार्य हैं और इसमें पाठ की लंबाई एक से अधिक होनी चाहिए";
+"Password and confirm-password must be same" = "पासवर्ड और कंफर्म-पासवर्ड समान होना चाहिए";
+"Registration" = "पंजीकरण";
+"Crop Insurance" = "फसल बीमा";
+"Ok" = "ठीक है";
+
+
+//Login
+"Login" = "लॉग इन करें";
+"Login failed please try again" = "लॉगिन विफल। कृपया पुन: प्रयास करें";
+"Please enter Aadhar number and password" = "कृपया आधार नंबर और पासवर्ड दर्ज करें";
+"Something went wrong, Please check your network connection" = "कुछ गलत हो गया है, कृपया अपना नेटवर्क कनेक्शन जांचें";
+
+
+//Buy policy
+"Buy Policy" = "पॉलिसी खरीदें";
+"Manual Claim Policy" = "स्वतः दावा नीति";
+"Area in hector is compulsory." = "हेक्टर में क्षेत्र अनिवार्य है।";
+"Please allow location service enable" ="कृपया स्थान सेवा सक्षम करने की अनुमति दें";
+"Buy policy completed." = "पूरी की गई पॉलिसी खरीदें।";
+"Buy policy failed" ="खरीदें नीति विफल";
+"Total payable " ="कुल देय ";
+"Done" ="किया हुआ";
+
+//Manual claim
+"Manual Claime" = "स्वतः दावा";
+"Percentrage damage = ?" = "प्रतिशत की क्षति = ?";
+"Please wait we are in process..." = "कृपया प्रतीक्षा करें हम प्रक्रिया में हैं...";
+"Please retake new image as we are not able to process with this image" = "कृपया नई छवि को फिर से लें क्योंकि हम इस छवि के साथ प्रक्रिया करने में सक्षम नहीं हैं";
+"Image not processed please select new image captured in good lights" = "संसाधित नहीं की गई छवि कृपया अच्छी रोशनी में कैप्चर की गई नई छवि का चयन करें";
+"Select another good quality image and try again" = "एक और अच्छी गुणवत्ता वाली छवि का चयन करें और फिर से प्रयास करें";
+"Claim recorded successfully" = "दावा सफलतापूर्वक दर्ज किया गया";
+"Claim not recorded" = "दावा दर्ज नहीं किया गया";
+"You will get" = "तुम्हे मिल जाएगा";
+"percent insurance amount" = "प्रतिशत बीमा राशि";
+
+//Profile
+"Profile" = "प्रोफ़ाइल";
+
+//Policies list
+"Policies" = "नीतियाँ";
+"No policies found" = "कोई नीतियां नहीं मिलीं";
+
+//claime history
+//claime history
+"   Manually processed" = "   स्वतः रूप से संसाधित किया गया";
+"   Auto processed" = "   स्वचालित संसाधित हुआ";

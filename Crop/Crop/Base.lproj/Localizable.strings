@@ -1,0 +1,54 @@
+/* 
+  localizable.strings
+  Crop
+
+  Created by Sandeep Kakde on 19/12/19.
+  Copyright © 2019 Sandeep Kakde. All rights reserved.
+*/
+//Registration
+"Please check all fields" = "Please check all fields";
+"All fields are compulsory and text length should be more than one character in it" = "All fields are compulsory and text length should be more than one character in it";
+"Password and confirm-password must be same" = "Password and confirm-password must be same";
+"Registration" = "Registration";
+"Crop Insurance" = "Crop Insurance";
+"Ok" = "Ok";
+
+//Login
+"Login" = "Login";
+"Login failed please try again" = "Login failed please try again";
+"Please enter Aadhar number and password" = "Please enter Aadhar number and password";
+"Something went wrong, Please check your network connection" = "Something went wrong, Please check your network connection";
+
+//Buy policy
+"Buy Policy" = "Buy Policy";
+"Manual Claim Policy" = "Manual Claim Policy";
+"Area in hector is compulsory." = "Area in hector is compulsory.";
+"Please allow location service enable" = "Please allow location service enable";
+"Buy policy completed." = "Buy policy completed.";
+"Buy policy failed" = "Buy policy failed";
+"Total payable " = "Total payable ";
+"Done" = "Done";
+
+//Manual claim
+"Manual Claime" = "Manual Claime";
+"Percentrage damage = ?" = "Percentrage damage = ?";
+"Please wait we are in process..." = "Please wait we are in process...";
+"Please retake new image as we are not able to process with this image" = "Please retake new image as we are not able to process with this image";
+"Image not processed please select new image captured in good lights" = "Image not processed please select new image captured in good lights";
+"Select another good quality image and try again" = "Select another good quality image and try again";
+"Claim recorded successfully" = "Claim recorded successfully";
+"Claim not recorded" = "Claim not recorded";
+"You will get" = "You will get";
+"percent insurance amount" = "percent insurance amount";
+
+//Profile
+"Profile" = "Profile";
+
+//Policies list
+"Policies" = "Policies";
+"No policies found" = "No policies found";
+
+
+//claime history
+"   Manually processed" = "   Manually processed";
+"   Auto processed" = "   Auto processed";
