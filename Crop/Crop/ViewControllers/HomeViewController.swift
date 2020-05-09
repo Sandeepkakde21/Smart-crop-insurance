@@ -13,7 +13,6 @@ class HomeViewController: BaseViewController {
     @IBOutlet weak var loginButton: UIButton!
     @IBOutlet weak var guestButton: UIButton!
     
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         initializeUI()
@@ -26,7 +25,6 @@ class HomeViewController: BaseViewController {
         registerButton.backgroundColor = greenTheme
         loginButton.backgroundColor = greenTheme
         guestButton.backgroundColor = greenTheme
-        
     }
     
     @IBAction func guestButtonAction(_ sender: UIButton) {
